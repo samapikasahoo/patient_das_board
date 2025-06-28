@@ -7,7 +7,7 @@ This project is built at UCL COMP0016 FHIRworks Hackathon (for GOSH DRIVE and NH
 
 ![img](screenshots/screenshot.png)
 
-[Run the app on github pages](https://henryzt.github.io/GOSH-FHIRworks2020-React-Dashboard/). The dotnet server API can be found at [FHIRworks_2020](https://github.com/goshdrive/FHIRworks_2020).
+[Run the app on github pages]https://patient-das-board-git-main-samapika-sahoos-projects.vercel.app/). The dotnet server API can be found at [FHIRworks_2020](https://github.com/goshdrive/FHIRworks_2020).
 
 ---
 
