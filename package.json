@@ -1,6 +1,6 @@
 {
-  "homepage": "https://henryz00.github.io/GOSH-FHIRworks2020-React-Dashboard",
-  "name": "fhir-dashboard",
+  "homepage": ".",
+  "name": "patient-das-board",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
